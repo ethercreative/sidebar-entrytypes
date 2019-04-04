@@ -2,7 +2,7 @@
 
 Easily switch between entry types in entries section.
 
-![Screenshot](resources/img/banner.png)
+![Screenshot](resources/banner.png)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ To install the plugin, follow these instructions.
 
 Improve the UX of the Craft admin with expandable entry types in the sidebar. Just like asset folders, you can click to expand and filter entry types in Channels and Structures.
 
-![Screenshot](resources/img/screenshot.png)
+![Screenshot](resources/screenshot.png)
 
 ## Configuring Entry Types
 
