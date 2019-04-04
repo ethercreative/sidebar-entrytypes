@@ -64,8 +64,13 @@ class SidebarEntryTypes extends Plugin
           continue;
         }
 
-        $children[$i] = [];
         $entryTypes = Craft::$app->sections->getEntryTypesBySectionId($source['criteria']['sectionId']);
+
+        if (count($entryTypes) < 2) {
+          continue;
+        }
+
+        $children[$i] = [];
 
         foreach ($entryTypes as $entryType) {
           $children[$i][] = [
