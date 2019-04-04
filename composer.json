@@ -1,40 +1,40 @@
 {
-    "name": "ether/entry-types",
-    "description": "Easily switch between entry types in entries section",
-    "type": "craft-plugin",
-    "version": "1.0.0",
-    "keywords": [
-        "craft",
-        "cms",
-        "craftcms",
-        "craft-plugin",
-        "entry types"
-    ],
-    "support": {
-        "docs": "???",
-        "issues": "???"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Ether Creative",
-            "homepage": "https://ethercreative.co.uk"
-        }
-    ],
-    "require": {
-        "craftcms/cms": "^3.0.0-RC1"
-    },
-    "autoload": {
-        "psr-4": {
-          "ether\\entrytypes\\": "src/"
-        }
-    },
-    "extra": {
-        "name": "Entry Types",
-        "handle": "entry-types",
-        "hasCpSettings": false,
-        "hasCpSection": false,
-        "changelogUrl": "???",
-        "class": "ether\\entrytypes\\EntryTypes"
+  "name": "ether/entrytypes",
+  "description": "Easily switch between entry types in entries section",
+  "type": "craft-plugin",
+  "version": "1.0.0",
+  "keywords": [
+    "craft",
+    "cms",
+    "craftcms",
+    "craft-plugin",
+    "entry types"
+  ],
+  "support": {
+    "docs": "???",
+    "issues": "???"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ether Creative",
+      "homepage": "https://ethercreative.co.uk"
     }
+  ],
+  "require": {
+    "craftcms/cms": "^3.0.0-RC1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ether\\entrytypes\\": "src/"
+    }
+  },
+  "extra": {
+    "name": "Entry Types",
+    "handle": "entrytypes",
+    "hasCpSettings": false,
+    "hasCpSection": false,
+    "changelogUrl": "???",
+    "class": "ether\\entrytypes\\EntryTypes"
+  }
 }
