@@ -1,8 +1,8 @@
 # Entry Types plugin for Craft CMS 3.x
 
-Easily switch between entry types in entries section
+Easily switch between entry types in entries section.
 
-![Screenshot](resources/img/plugin-logo.png)
+![Screenshot](resources/img/banner.png)
 
 ## Requirements
 
@@ -24,15 +24,11 @@ To install the plugin, follow these instructions.
 
 ## Entry Types Overview
 
--Insert text here-
+Improve the UX of the Craft admin with expandable entry types in the sidebar. Just like asset folders, you can click to expand and filter entry types in Channels and Structures.
 
 ## Configuring Entry Types
 
--Insert text here-
-
-## Using Entry Types
-
--Insert text here-
+Nothing to configure. Install and start filtering!
 
 ## Entry Types Roadmap
 
