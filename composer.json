@@ -1,5 +1,5 @@
 {
-  "name": "ether/entrytypes",
+  "name": "ether/sidebarentrytypes",
   "description": "Easily switch between entry types in entries section",
   "type": "craft-plugin",
   "version": "1.0.0",
@@ -8,11 +8,11 @@
     "cms",
     "craftcms",
     "craft-plugin",
-    "entry types"
+    "sidebar entry types"
   ],
   "support": {
-    "docs": "???",
-    "issues": "???"
+    "docs": "https://github.com/ethercreative/sidebar-entrytypes",
+    "issues": "https://github.com/ethercreative/sidebar-entrytypes/issues"
   },
   "license": "MIT",
   "authors": [
@@ -26,15 +26,15 @@
   },
   "autoload": {
     "psr-4": {
-      "ether\\entrytypes\\": "src/"
+      "ether\\sidebarentrytypes\\": "src/"
     }
   },
   "extra": {
-    "name": "Entry Types",
-    "handle": "entrytypes",
+    "name": "Sidebar Entry Types",
+    "handle": "sidebarentrytypes",
     "hasCpSettings": false,
     "hasCpSection": false,
     "changelogUrl": "???",
-    "class": "ether\\entrytypes\\EntryTypes"
+    "class": "ether\\sidebarentrytypes\\SidebarEntryTypes"
   }
 }
