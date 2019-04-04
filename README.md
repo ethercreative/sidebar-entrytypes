@@ -32,10 +32,4 @@ Improve the UX of the Craft admin with expandable entry types in the sidebar. Ju
 
 Nothing to configure. Install and start filtering!
 
-## Entry Types Roadmap
-
-Some things to do, and ideas for potential features:
-
-- Release it
-
 Brought to you by [Ether Creative](https://ethercreative.co.uk)
