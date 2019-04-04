@@ -8,7 +8,7 @@
 * @copyright Copyright (c) 2019 Ether Creative
 */
 
-namespace ether\entrytypes;
+namespace ether\sidebarentrytypes;
 
 use Craft;
 use craft\base\Plugin;
@@ -20,20 +20,20 @@ use craft\events\RegisterElementSourcesEvent;
 use yii\base\Event;
 
 /**
-* Class EntryTypes
+* Class SidebarEntryTypes
 *
 * @author    Ether Creative
-* @package   EntryTypes
+* @package   SidebarEntryTypes
 * @since     1.0.0
 *
 */
-class EntryTypes extends Plugin
+class SidebarEntryTypes extends Plugin
 {
   // Static Properties
   // =========================================================================
 
   /**
-  * @var EntryTypes
+  * @var SidebarEntryTypes
   */
   public static $plugin;
 
