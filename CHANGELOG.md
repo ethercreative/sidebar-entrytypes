@@ -26,7 +26,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 - Fixed class name error
 
-## 1.0.0 - 2019-04-04
+## 1.0 - 2019-04-04
 
 ### Added
 
