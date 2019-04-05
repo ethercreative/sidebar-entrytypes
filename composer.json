@@ -2,7 +2,7 @@
   "name": "ether/sidebarentrytypes",
   "description": "Easily switch between entry types in entries section",
   "type": "craft-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "craft",
     "cms",
