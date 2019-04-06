@@ -28,6 +28,9 @@ Improve the UX of the Craft admin with expandable entry types in the sidebar. Ju
 
 ![Screenshot](resources/screenshot.png)
 
+#### Sidebar Entry Types in action
+![Example](resources/sidebar-entry-types.gif)
+
 ## Configuring Entry Types
 
 Nothing to configure. Install and start filtering!
